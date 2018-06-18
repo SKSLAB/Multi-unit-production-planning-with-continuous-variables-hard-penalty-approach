@@ -1,5 +1,5 @@
-#Multi-unit production planning with continuous variables (hard penalty approach)
-#####An optimization test suite involving 1287 and 2624 continuous variables
+# Multi-unit production planning with continuous variables (hard penalty approach) 
+##### An optimization test suite involving 1287 and 2624 continuous variables
 
 This submission can be used to evaluate the performance of optimization techniques on problems with integer and continuous variables. This optimization problem arises for maximization of profit in production planning. However these files can be used as black-box optimization problems.
 
@@ -17,7 +17,7 @@ Output: objective function values (F)  of the population members.
 
 The file ProblemDetails.p can be used to determine the lower and upper bounds along with the function handle for each of the cases.
 
-The format is `[lb,ub,fobj] = ProblemDetails(n);`
+The format is `[lb, ub, fobj] = ProblemDetails(n);`
 
 Input: n is an integer from 1 to 8. <br>
 Output: (i) the lower bound (lb), <br>
