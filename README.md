@@ -32,7 +32,5 @@ The file Script.m shows how to use these files along with an optimization algori
 
   2. The objective function files are capable of determining the objective function values of multiple solutions (i.e., if required, the entire population can be sent to the objective function file).
 
-**Reference:**<br>
-  
-  Sandeep Singh Chauhan, Prakash Kotecha,An efficient multi-unit production planning strategy based on continuous variables, Applied Soft Computing,2018,ISSN 1568-4946, 
+**Reference:** Sandeep Singh Chauhan, Prakash Kotecha,An efficient multi-unit production planning strategy based on continuous variables, Applied Soft Computing,2018,ISSN 1568-4946, 
   https://doi.org/10.1016/j.asoc.2018.03.012.
